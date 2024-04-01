@@ -13,6 +13,25 @@
 <!-----Conteo de visitas----->
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JexDev13}/count.svg" /></p> 
 <br>
 </div>
+
+<!--------Sobre mi----------->
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Conóceme**
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br>
+
+- :school: Software Engineer at the `EPN`
+- :trophy: 3x `HultPrize`
+- ⭐ CEO of `Qallariy360`
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([http://lnkiy.in/Ahmed_Hossam_Resume](https://www.linkedin.com/in/jeremy-arias-benitez-8920b7269/)).
+- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- 👯 I’m looking to collaborate on new `Proyects`.
+- ⚡ Fun fact: I love 🏋️GYM, 🎮videogames and 🍖good food.
+<br>
