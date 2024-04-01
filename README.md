@@ -9,3 +9,10 @@
 
 <!-----Bienvenida----->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=990000&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos+a+mi+perfil👋👋👋;👋👋+:3+👋👋;)
+
+<!-----Conteo de visitas----->
+<div align="center">
+<br><p align="centre"><b>Visitors Count 👽 </b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
+<br>
+</div>
