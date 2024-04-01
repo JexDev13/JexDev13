@@ -4,11 +4,11 @@
 </p>
 
 <!-----Perfil---------------->
-<h1 align="center">Hola! Soy JexDev13 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi! Im JexDev13 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 
 <!-----Bienvenida------------>
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=990000&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos+a+mi+perfil👋👋👋;👋👋+:3+👋👋;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff8080&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile👋👋👋;👋👋+:3+👋👋;)
 
 <!-----Conteo de visitas----->
 <div align="center">
